@@ -1,0 +1,32 @@
+#Open_Multiple_Files_at_Once
+
+We usually open same set of web pages when we open the browser in the morning. As an example a student may open College website, HackerRank portal, Jobs Portal and LinkedIn.
+By using this method one can open all such pages at once which will save your time and will help you keep in mind what all places you need to visit.
+Steps are provided below.
+
+Step 1:
+Create a new text file on your desk top.
+
+Step 2: 
+Edit it and write "@echo off" at first line
+
+Step 3: 
+Add all your webpages links with 1 line space to keep it clean.
+
+Step 4: 
+Add "start" before each link.
+
+Step 5:
+Now, save the file as "start.bat" and do not forget to select All files in file type while saving.
+
+Now, when you double click on the saved file, it will open all mentioned links in your default browser.
+
+Example:
+
+@echo off
+
+start www.google.com
+
+start www.linkedin.com
+
+start www.hackerrank.com
