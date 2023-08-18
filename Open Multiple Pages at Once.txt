@@ -20,7 +20,6 @@ Step 5:
 Now, save the file as "start.bat" and do not forget to select All files in file type while saving.
 
 Now, when you double click on the saved file, it will open all mentioned links in your default browser.
-
 Example:
 
 @echo off
